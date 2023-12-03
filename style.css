@@ -1,0 +1,34 @@
+#header{
+    font-size:25px;
+}
+a{
+    color: #fff;
+}
+.card li{
+    margin-bottom: 3px;
+}
+.card li:hover{
+    background-color: gray;
+    transition: 1s;
+}
+.card li:hover {
+    color: #fff;
+}
+.btn{
+    margin-left: 3px;
+}
+#txtTaskName{
+    box-shadow: 5px 15px 25px gray;
+}
+#sil{
+    color: red;
+}
+#sil:hover{
+    color:darkred;
+}
+#update{
+    margin-right: 11px;
+}
+#update:hover{
+    color:blue;
+}
